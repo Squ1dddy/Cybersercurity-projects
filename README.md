@@ -1,5 +1,5 @@
-<h1 align="center">CyberSecurity Projects Repository</h1>
-<h3 align="center">This repository contains Python and cybersecurity projects I’ve built while completing online courses and self-study.</h3>
+<h1 align="center">Software Engineering Projects Repository</h1>
+<h3 align="center">This repository contains Python and software-engineering projects I’ve built while completing online courses, in class work and self-study.</h3>
 
 <h2 align="left">🔧 Current Project:</h2>
 ...
@@ -15,12 +15,16 @@
 <br>
 <br>
 
-<h2 align="left">🧠 Skills Demonstrated:</h2> 
+<h2 align="left">🧠 Skills Demonstrated within this Repository:</h2> 
 - Python scripting and automation 🐍 <br>
 - Network scanning and socket programming 🔎 <br>
 - Cybersecurity fundamentals 🔐 <br>
 - Markdown documentation ✍️ <br>
 - Git version control 🗂️ <br>
+- Object Oriented Programming 💻 <br>
+- Programming For the Web 🌐 <br>
+- Programming Fundementals ⚙️ <br>
+- 
 
 <br>
 <br>
