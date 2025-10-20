@@ -9,7 +9,8 @@
 <br>
 
 <h2 align="left">📁 Previous Projects:</h2>
-...
+- Console Based Learning Application
+- Console Based Dungeon Exploring Game
 
 <br>
 <br>
