@@ -9,8 +9,8 @@
 <br>
 
 <h2 align="left">📁 Previous Projects:</h2>
-- Console Based Learning Application <br>
-- Console Based Dungeon Exploring Game <br>
+- [Console Based Learning Application](https://github.com/Squ1dddy/Software-Engineering-Projects/tree/main/in-class-projects/Assessment-Task1) <br>
+- [Console Based Dungeon Exploring Game](https://github.com/Squ1dddy/Software-Engineering-Projects/tree/main/in-class-projects/Assessment-Task2) <br>
 
 <br>
 <br>
