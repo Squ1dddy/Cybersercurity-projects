@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="left">🧠 Skills Demonstrated within this Repository:</h2>
+<h2 align="left">🧠 Skills Demonstrated:</h2>
 
 - Python scripting and automation 🐍  
 - Network scanning and socket programming 🔎  
