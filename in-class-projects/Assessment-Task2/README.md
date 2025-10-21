@@ -1,4 +1,4 @@
-<h1 align="center">Text Based RPG Adventure Game 🧙‍♂️</h1>
+<h1 align="center">Year 11 Assessment Task 2 Text Based RPG Adventure Game 🧙‍♂️</h1>
 <h3 align="center">Developed in the Object Oriented paradigm, contains:</h3>
 
 - 📁 Seperate Files: **Stores Class Methods & Attributes, runs in one clean mainline**
