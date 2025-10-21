@@ -1,4 +1,4 @@
-<h1 align="center">Assessment Task 1 Learning Application 📚</h1>
+<h1 align="center">Year 11 Assessment Task 1 Learning Application 📚</h1>
 <h3 align="center">A console based learning app that contains:</h3>
 
 - 📐 Pythagoras Calculator: **Calculates hypotenuse & side lengths**
